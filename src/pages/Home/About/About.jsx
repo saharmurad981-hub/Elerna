@@ -2,7 +2,9 @@ import about from "../../../assets/images/about1.webp"
 import girl from "../../../assets/images/girl-elerna.webp"
 import teacher from "../../../assets/images/teacher.webp"
 import bob from "../../../assets/images/bobstu.webp"
+
 import { useEffect, useRef, useState } from "react";
+
 import { Link } from "react-router";
 import {
   motion,
@@ -139,6 +141,9 @@ const benefits = [
     description: "Keep your knowledge current",
   },
 ];
+
+
+
 
 const reasons = [
   {
